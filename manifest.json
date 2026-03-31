@@ -1,14 +1,15 @@
 {
-  "originalUrl": "https://steelpans.my.canva.site/blaubus/about-us",
-  "title": "About us",
-  "archiveTime": "2026-03-31T17:54:56.191Z",
+  "originalUrl": "https://steelpans.my.canva.site/blaubus/",
+  "title": "Home",
+  "archiveTime": "2026-03-31T17:54:41.427Z",
   "indexFilename": "index.html",
   "resources": {
     "fonts/0.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/9340013c7d177c83df1edab0cf96ac10.woff2",
-    "fonts/1.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/8f7934b3d45567e9cf1f541e008969a9.woff2",
     "fonts/2.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/625cf32ea46ae48b58ebd3ff993de469.woff2",
-    "fonts/3.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/f4a4890561b3fddfd1fd9a1b27b6d4a4.woff2",
+    "fonts/1.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/8f7934b3d45567e9cf1f541e008969a9.woff2",
     "fonts/4.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/33696a29f45c1b554a4c12443b998d21.woff2",
+    "fonts/5.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/2c7cb2625b23132f97a4a05fcb3c3088.woff2",
+    "fonts/3.woff2": "https://steelpans.my.canva.site/blaubus/_assets/fonts/f4a4890561b3fddfd1fd9a1b27b6d4a4.woff2",
     "stylesheet_0.css": "https://steelpans.my.canva.site/blaubus/_assets/5c58b8aea38b32a5.ltr.css",
     "stylesheet_1.css": "https://steelpans.my.canva.site/blaubus/_assets/f7688c2d15a1efc4.ltr.css",
     "stylesheet_2.css": "https://steelpans.my.canva.site/blaubus/_assets/dc4946096a210ac2.ltr.css",
@@ -20,6 +21,11 @@
     "stylesheet_8.css": "https://steelpans.my.canva.site/blaubus/_assets/a618e97bcb1059ad.ltr.css",
     "stylesheet_9.css": "https://steelpans.my.canva.site/blaubus/_assets/static_font_4.ltr.css",
     "stylesheet_10.css": "https://steelpans.my.canva.site/blaubus/_assets/54b140a278ce28fe.ltr.css",
-    "images/7.png": "https://steelpans.my.canva.site/blaubus/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png"
+    "images/10.png": "https://steelpans.my.canva.site/blaubus/_assets/media/c1d2e98fbafa563d913bc79201314aee.png",
+    "images/11.png": "https://steelpans.my.canva.site/blaubus/_assets/media/2972fe80f5edf302fb7fcac2da7651ed.png",
+    "images/12.png": "https://steelpans.my.canva.site/blaubus/_assets/media/b5277a2ae0e49d7e4c85166b21f53d15.png",
+    "images/9.png": "https://steelpans.my.canva.site/blaubus/_assets/media/7cb83b8c973760a93a19ab6d3db24f3e.png",
+    "images/8.png": "https://steelpans.my.canva.site/blaubus/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png",
+    "images/13.png": "https://steelpans.my.canva.site/blaubus/_assets/media/1d43e73ad9895c693588e03adb583606.png"
   }
 }
